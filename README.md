@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning and exploring new technologies.
 - 📫 How to reach me: majd.kikhia.9@gmail.com
 
-
 ### My Skills
 
 - **Flutter**
