@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+- 💬 Ask me about Flutter, Node.js, or any tech-related questions.
+- 📫 How to reach me: majd.kikhia.9@gmail.com
 <!--
 **MajdKi/MajdKi
 
-- 💬 Ask me about Flutter, Node.js, or any tech-related questions.
-- 📫 How to reach me: majd.kikhia.9@gmail.com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
